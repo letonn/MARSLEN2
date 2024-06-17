@@ -1,10 +1,10 @@
 {
-    "name": "Source ZThon",
-    "description": "• تنصيب سـورس زدثــون مجاناً علـى منصـة سكـالينجـو • افضـل سـورسـات يـوزربـوت العربيـة",
+    "name": "Source 𝐋𝐄𝐓𝐇𝐎𝐍𓅛",
+    "description": "• تنصيب سـورس ليثون مجاناً علـى منصـة سكـالينجـو • افضـل سـورسـات يـوزربـوت العربيـة",
     "addons": ["scalingo-postgresql"],
     "keywords": ["zthon", "userbot","scalingo"],
-    "repository": "https://github.com/ZTScalingo/scalingo",
-    "logo": "https://graph.org/file/dc08630c4dc62f59d263b.jpg",
+    "repository": "https://github.com/letonn/MARSLEN2",
+    "logo": "https://telegra.ph/file/e98db958e796347fb7d4b.jpg",
     "stack": "container",
     "env": {
         "STRING_SESSION": {
